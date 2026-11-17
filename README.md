@@ -1,5 +1,5 @@
 ### Lastest realease
-[![DOI](https://zenodo.org/badge/1461651817.svg)](https://doi.org/10.5281/zenodo.24320259)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24322562.svg)](https://doi.org/10.5281/zenodo.24322562)
 
 ### R Folder structure
 
