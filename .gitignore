@@ -1,0 +1,18 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+#Folders to ignore
+R_folder/outputs/
+R_folder/figures/
+R_folder/data/processed/
+R_folder/data/raw/pdf_migatlas_transproba/
+R_folder/data/raw/PECBMS_national_2023/
+R_folder/data/raw/effort/
+R_folder/data/raw/abundances_erlob_2021/
+
+#Files to ignore
+R_folder/data/raw/Clements-v2024-October-2024-rev.csv
+R_folder/data/raw/Abundance_data_PECBMS.txt
